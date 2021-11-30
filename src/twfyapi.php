@@ -32,7 +32,7 @@ class TWFYAPI
         // Set the user agent
         // It does not provide TheyWorkForYou.com with any personal information
         // but helps them track usage of this PHP class.
-        curl_setopt($this->ch, CURLOPT_USERAGENT, 'TheyWorkForYou.com API PHP interface (+https://github.com/rubenarakelyan/twfyapi)');
+        curl_setopt($this->ch, CURLOPT_USERAGENT, 'TheyWorkForYou.com API PHP interface (+https://github.com/openpolitics/twfyapi)');
 
         // Return the result of the query
         curl_setopt($this->ch, CURLOPT_RETURNTRANSFER, true);

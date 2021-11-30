@@ -13,7 +13,7 @@ This package provides PHP wrappers for the TheyWorkForYou.com and OpenAustralia.
 Run the following to include this via Composer
 
 ```shell
-composer require rubenarakelyan/twfyapi
+composer require openpolitics/twfyapi
 ```
 
 ### Contribution Guidelines
@@ -22,7 +22,7 @@ When contributing please consider the following guidelines:
 
 - Please conform to the code style of the project.
 - All methods and classes must contain docblocks.
-- When planning a pull request to add new functionality, it may be wise to [submit a proposal](https://github.com/rubenarakelyan/twfyapi/issues/new) to ensure compatibility with the project's goals.
+- When planning a pull request to add new functionality, it may be wise to [submit a proposal](https://github.com/openpolitics/twfyapi/issues/new) to ensure compatibility with the project's goals.
 
 ### Maintainer
 
@@ -30,4 +30,4 @@ This package is maintained by [Ruben Arakelyan](https://ruben.arakelyan.uk/).
 
 ### License
 
-This package is licensed under the [MIT license](https://github.com/rubenarakelyan/twfyapi/blob/master/LICENSE).
+This package is licensed under the [MIT license](https://github.com/openpolitics/twfyapi/blob/master/LICENSE).

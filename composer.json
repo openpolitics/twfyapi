@@ -1,7 +1,7 @@
 {
-  "name": "rubenarakelyan/twfyapi",
+  "name": "openpolitics/twfyapi",
   "description": "PHP wrappers for the TheyWorkForYou.com and OpenAustralia.org.au APIs",
-  "homepage": "https://github.com/rubenarakelyan/twfyapi",
+  "homepage": "https://github.com/openpolitics/twfyapi",
   "authors": [
     {
       "name": "Ruben Arakelyan",
