@@ -1,9 +1,9 @@
 <?php
-namespace RubenArakelyan\TWFYAPI;
+namespace OpenPolitics\TWFYAPI;
 
 /**
  * Class OAAPI
- * @package RubenArakelyan\TWFYAPI
+ * @package OpenPolitics\TWFYAPI
  */
 class OAAPI
 {
@@ -109,7 +109,7 @@ class OAAPI
 
 /**
  * Class OAAPI_Request
- * @package RubenArakelyan\TWFYAPI
+ * @package OpenPolitics\TWFYAPI
  */
 class OAAPI_Request
 {

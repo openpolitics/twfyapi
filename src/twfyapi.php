@@ -1,9 +1,9 @@
 <?php
-namespace RubenArakelyan\TWFYAPI;
+namespace OpenPolitics\TWFYAPI;
 
 /**
  * Class TWFYAPI
- * @package RubenArakelyan\TWFYAPI
+ * @package OpenPolitics\TWFYAPI
  */
 class TWFYAPI
 {
@@ -109,7 +109,7 @@ class TWFYAPI
 
 /**
  * Class TWFYAPI_Request
- * @package RubenArakelyan\TWFYAPI
+ * @package OpenPolitics\TWFYAPI
  */
 class TWFYAPI_Request
 {

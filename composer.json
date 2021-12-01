@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "RubenArakelyan\\TWFYAPI\\": "src/"
+      "OpenPolitics\\TWFYAPI\\": "src/"
     }
   },
   "license": "MIT",
